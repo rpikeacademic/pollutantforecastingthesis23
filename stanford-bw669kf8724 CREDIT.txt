@@ -1,0 +1,7 @@
+Refer to:
+
+https://geodata.lib.utexas.edu/catalog/stanford-bw669kf8724
+
+Also
+https://towardsdatascience.com/mapping-with-matplotlib-pandas-geopandas-and-basemap-in-python-d11b57ab5dac
+Has a blurb about adding a credit annotation in the corner
